@@ -14,6 +14,8 @@
 
 💬 Ask me about **SpringBoot, React, Javascript... or anything [here](https://njahi-oussama.vercel.app)**
 
+📄 Know about my experiences [https://njahi-oussama.vercel.app/Resume.pdf](https://njahi-oussama.vercel.app/Resume.pdf)
+
 
  </div>
  
