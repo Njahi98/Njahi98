@@ -30,7 +30,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    
     <img src="./icons/React-Dark.svg" alt="React icon">
     <img src="./icons/Java-Dark.svg" alt="Java icon">
     <img src="./icons/Spring-Dark.svg" alt="Spring icon">
@@ -40,7 +39,7 @@
     <img src="./icons/Bootstrap.svg" alt="Bootstrap icon">
     <img src="./icons/NodeJS-Dark.svg" alt="NodeJS icon">
     <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS icon">
-
+    
     <img src="./icons/Git.svg" alt="Git icon">
     <img src="./icons/Github-Dark.svg" alt="Github icon">
     <img src="./icons//VSCode-Dark.svg" alt="VSCode icon">
