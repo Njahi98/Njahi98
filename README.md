@@ -30,24 +30,25 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center" style="line-height: 35px;">
-    <img src="./icons/React-Dark.svg" alt="React icon" width="40" height="40">
-    <img src="./icons/Java-Dark.svg" alt="Java icon" width="40" height="40">
-    <img src="./icons/Spring-Dark.svg" alt="Spring icon" width="40" height="40">
-    <img src="./icons/HTML.svg" alt="HTML icon" width="40" height="40">
-    <img src="./icons/CSS.svg" alt="CSS icon" width="40" height="40">
-    <img src="./icons/JavaScript.svg" alt="JavaSript icon" width="40" height="40">
-    <img src="./icons/Bootstrap.svg" alt="Bootstrap icon" width="40" height="40">
-    <img src="./icons/NodeJS-Dark.svg" alt="NodeJS icon" width="40" height="40">
-    <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS icon" width="40" height="40">
-    <img src="./icons/Git.svg" alt="Git icon" width="40" height="40">
-    <img src="./icons/Github-Dark.svg" alt="Github icon" width="40" height="40">
-    <img src="./icons/VSCode-Dark.svg" alt="VSCode icon" width="40" height="40">
-    <img src="./icons/Idea-Dark.svg" alt="Idea icon" width="40" height="40">
-    <img src="./icons/Figma-Dark.svg" alt="Figma icon" width="40" height="40">
-    <img src="./icons/Postman.svg" alt="Postman icon" width="40" height="40">
-    <img src="./icons/Firebase-Dark.svg" alt="Firebase icon" width="40" height="40">
-    <img src="./icons/MongoDB.svg" alt="MongoDB icon" width="40" height="40">
-    <img src="./icons/Linux-Dark.svg" alt="Linux icon" width="40" height="40">
+    <img src="./icons/React-Dark.svg" alt="React icon" width="50" height="50">
+    <img src="./icons/Java-Dark.svg" alt="Java icon" width="50" height="50">
+    <img src="./icons/Spring-Dark.svg" alt="Spring icon" width="50" height="50">
+    <img src="./icons/HTML.svg" alt="HTML icon" width="50" height="50">
+    <img src="./icons/CSS.svg" alt="CSS icon" width="50" height="50">
+    <img src="./icons/JavaScript.svg" alt="JavaSript icon" width="50" height="50">
+    <img src="./icons/Bootstrap.svg" alt="Bootstrap icon" width="50" height="50">
+    <img src="./icons/NodeJS-Dark.svg" alt="NodeJS icon" width="50" height="50">
+    <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS icon" width="50" height="50">
+    <br/>
+    <img src="./icons/Git.svg" alt="Git icon" width="50" height="50">
+    <img src="./icons/Github-Dark.svg" alt="Github icon" width="50" height="50">
+    <img src="./icons/VSCode-Dark.svg" alt="VSCode icon" width="50" height="50">
+    <img src="./icons/Idea-Dark.svg" alt="Idea icon" width="50" height="50">
+    <img src="./icons/Figma-Dark.svg" alt="Figma icon" width="50" height="50">
+    <img src="./icons/Postman.svg" alt="Postman icon" width="50" height="50">
+    <img src="./icons/Firebase-Dark.svg" alt="Firebase icon" width="50" height="50">
+    <img src="./icons/MongoDB.svg" alt="MongoDB icon" width="50" height="50">
+    <img src="./icons/Linux-Dark.svg" alt="Linux icon" width="50" height="50">
     <br>
 </div>
 
