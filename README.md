@@ -30,8 +30,27 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,java,spring,html,css,javascript,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman,firebase,mongodb,linux" /><br>
+    
+    <img src="./icons/React-Dark.svg" alt="React icon">
+    <img src="./icons/Java-Dark.svg" alt="Java icon">
+    <img src="./icons/Spring-Dark.svg" alt="Spring icon">
+    <img src="./icons/HTML.svg" alt="HTML icon">
+    <img src="./icons/CSS.svg" alt="CSS icon">
+    <img src="./icons/JavaScript.svg" alt="JavaSript icon">
+    <img src="./icons/Bootstrap.svg" alt="Bootstrap icon">
+    <img src="./icons/NodeJS-Dark.svg" alt="NodeJS icon">
+    <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS icon">
+
+    <img src="./icons/Git.svg" alt="Git icon">
+    <img src="./icons/Github-Dark.svg" alt="Github icon">
+    <img src="./icons//VSCode-Dark.svg" alt="VSCode icon">
+    <img src="./icons/Idea-Dark.svg" alt="Idea icon">
+    <img src="./icons/Figma-Dark.svg" alt="Figma icon">
+    <img src="./icons/Postman.svg" alt="Postman icon">
+    <img src="./icons/Firebase-Dark.svg" alt="Firebase icon">
+    <img src="./icons/MongoDB.svg" alt="MongoDB icon">
+    <img src="./icons/Linux-Dark.svg" alt="Linux icon">
+    <br>
 </div>
 
 
