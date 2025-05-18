@@ -36,6 +36,7 @@
     <img src="./icons/HTML.svg" alt="HTML icon" width="50" height="50">
     <img src="./icons/CSS.svg" alt="CSS icon" width="50" height="50">
     <img src="./icons/JavaScript.svg" alt="JavaSript icon" width="50" height="50">
+    <img src="./icons/TypeScript.svg" alt="TypeScript icon" width="50" height="50">
     <img src="./icons/Bootstrap.svg" alt="Bootstrap icon" width="50" height="50">
     <img src="./icons/NodeJS-Dark.svg" alt="NodeJS icon" width="50" height="50">
     <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS icon" width="50" height="50">
@@ -46,8 +47,9 @@
     <img src="./icons/Idea-Dark.svg" alt="Idea icon" width="50" height="50">
     <img src="./icons/Figma-Dark.svg" alt="Figma icon" width="50" height="50">
     <img src="./icons/Postman.svg" alt="Postman icon" width="50" height="50">
-    <img src="./icons/Firebase-Dark.svg" alt="Firebase icon" width="50" height="50">
     <img src="./icons/MongoDB.svg" alt="MongoDB icon" width="50" height="50">
+    <img src="./icons/MySQL-Dark.svg" alt="MySQL icon" width="50" height="50">
+    <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL icon" width="50" height="50">
     <img src="./icons/Linux-Dark.svg" alt="Linux icon" width="50" height="50">
     <br>
 </div>
