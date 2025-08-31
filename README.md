@@ -60,9 +60,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align=center style="display:flex; justify-content: space-between;">
   <img width=390 src="https://github-readme-streak-stats-mocha-eight.vercel.app?user=Njahi98&theme=react&border_radius=10" alt="GitHub Streak" />
-  <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njahi98&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
