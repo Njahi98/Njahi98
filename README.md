@@ -8,64 +8,82 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for **new job opportunities**
+🔭 I'm currently looking for **new job opportunities**
  
- 🌱 I’m currently learning **Typescript, TailwindCSS, Prisma**
+🌱 I'm currently learning **TypeScript, TailwindCSS, Prisma**
 
-💬 Ask me about **SpringBoot, React, Javascript... or anything [here](https://njahi-oussama.vercel.app)**
+💬 Ask me about **SpringBoot, React, JavaScript... or anything [here](https://njahi-oussama.vercel.app)**
 
 📄 Know about my experiences **[here](https://njahi-oussama.vercel.app/Resume.pdf)**
 
-
- </div>
+</div>
  
 <div align="center"> 
-  <a href="mailto:njahioussama@outlook.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/oussama-njahi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="https://njahi-oussama.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
+  <a href="mailto:njahioussama@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/oussama-njahi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://njahi-oussama.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
 </div>
 
- <hr/>
+<hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages & Technologies ⚒️</h2>
 <br/>
-<div align="center" style="line-height: 35px;">
-    <img src="./icons/React-Dark.svg" alt="React icon" width="50" height="50">
-    <img src="./icons/Java-Dark.svg" alt="Java icon" width="50" height="50">
-    <img src="./icons/Spring-Dark.svg" alt="Spring icon" width="50" height="50">
-    <img src="./icons/HTML.svg" alt="HTML icon" width="50" height="50">
-    <img src="./icons/CSS.svg" alt="CSS icon" width="50" height="50">
-    <img src="./icons/JavaScript.svg" alt="JavaSript icon" width="50" height="50">
-    <img src="./icons/TypeScript.svg" alt="TypeScript icon" width="50" height="50">
-    <img src="./icons/Bootstrap.svg" alt="Bootstrap icon" width="50" height="50">
-    <img src="./icons/NodeJS-Dark.svg" alt="NodeJS icon" width="50" height="50">
-    <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS icon" width="50" height="50">
-    <br/>
-    <img src="./icons/Git.svg" alt="Git icon" width="50" height="50">
-    <img src="./icons/Github-Dark.svg" alt="Github icon" width="50" height="50">
-    <img src="./icons/VSCode-Dark.svg" alt="VSCode icon" width="50" height="50">
-    <img src="./icons/Idea-Dark.svg" alt="Idea icon" width="50" height="50">
-    <img src="./icons/Figma-Dark.svg" alt="Figma icon" width="50" height="50">
-    <img src="./icons/Postman.svg" alt="Postman icon" width="50" height="50">
-    <img src="./icons/MongoDB.svg" alt="MongoDB icon" width="50" height="50">
-    <img src="./icons/MySQL-Dark.svg" alt="MySQL icon" width="50" height="50">
-    <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL icon" width="50" height="50">
-    <img src="./icons/Linux-Dark.svg" alt="Linux icon" width="50" height="50">
-    <br>
+
+<div align="center">
+    <img src="./icons/React-Dark.svg" alt="React" width="50" height="50" />
+    <img src="./icons/Java-Dark.svg" alt="Java" width="50" height="50" />
+    <img src="./icons/Spring-Dark.svg" alt="Spring" width="50" height="50" />
+    <img src="./icons/TypeScript.svg" alt="TypeScript" width="50" height="50" />
+    <img src="./icons/JavaScript.svg" alt="JavaScript" width="50" height="50" />
+    <img src="./icons/NodeJS-Dark.svg" alt="NodeJS" width="50" height="50" />
+    <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS" width="50" height="50" />
+    <img src="./icons/HTML.svg" alt="HTML" width="50" height="50" />
+    <img src="./icons/CSS.svg" alt="CSS" width="50" height="50" />
+    <img src="./icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50" />
 </div>
 
+<br/>
+
+<div align="center">
+    <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50" />
+    <img src="./icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50" />
+    <img src="./icons/MongoDB.svg" alt="MongoDB" width="50" height="50" />
+    <img src="./icons/Git.svg" alt="Git" width="50" height="50" />
+    <img src="./icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />
+    <img src="./icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50" />
+    <img src="./icons/Idea-Dark.svg" alt="IntelliJ IDEA" width="50" height="50" />
+    <img src="./icons/Figma-Dark.svg" alt="Figma" width="50" height="50" />
+    <img src="./icons/Postman.svg" alt="Postman" width="50" height="50" />
+    <img src="./icons/Linux-Dark.svg" alt="Linux" width="50" height="50" />
+</div>
 
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-<div align=center style="display:flex; justify-content: space-between;">
- <img width="390" src="https://github-readme-streak-stats-mocha-eight.vercel.app?user=Njahi98&#x26;theme=react&#x26;border_radius=10" alt="GitHub Streak">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njahi98&#x26;langs_count=8&#x26;layout=compact&#x26;theme=react&#x26;border_radius=10&#x26;size_weight=0.5&#x26;count_weight=0.5&#x26;exclude_repo=github-readme-stats" alt="top langs">
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats-mocha-eight.vercel.app?user=Njahi98&theme=react&border_radius=10" alt="GitHub Streak" />
 </div>
 
-<br/><br/>
+<br/>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njahi98&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Njahi98&show_icons=true&theme=react&border_radius=10&hide_border=false&count_private=true" alt="GitHub Stats" />
+</div>
+
+<br/>
 <hr/>
-
