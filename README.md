@@ -10,9 +10,9 @@
  
 🔭 I'm currently looking for **new job opportunities**
  
-🌱 I'm currently learning **TypeScript, TailwindCSS, Prisma**
+🌱 I'm currently learning **NextJs, TanStack Query, tRPC, Playwright**
 
-💬 Ask me about **SpringBoot, React, JavaScript... or anything [here](https://njahi-oussama.vercel.app)**
+💬 Ask me about **NodeJs, ExpressJs, ReactJs, JavaScript, TypeScript... or anything [here](https://njahi-oussama.vercel.app)**
 
 📄 Know about my experiences **[here](https://njahi-oussama.vercel.app/Resume.pdf)**
 
@@ -45,7 +45,7 @@
     <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS" width="50" height="50" />
     <img src="./icons/HTML.svg" alt="HTML" width="50" height="50" />
     <img src="./icons/CSS.svg" alt="CSS" width="50" height="50" />
-    <img src="./icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50" />
+    <img src="./icons/socketio-dark.svg" alt="SocketIo" width="50" height="50" />
 </div>
 
 <br/>
