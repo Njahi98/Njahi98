@@ -20,7 +20,7 @@
  
 <div align="center"> 
   <a href="mailto:njahioussama@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=mailboxdotorg&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/oussama-njahi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -34,7 +34,7 @@
  
 <h2 align="center">⚒️ Languages & Technologies ⚒️</h2>
 <br/>
-
+<!-- Icons: https://github.com/tandpfun/skill-icons/tree/main/icons -->
 <div align="center">
     <img src="./icons/React-Dark.svg" alt="React" width="50" height="50" />
     <img src="./icons/Java-Dark.svg" alt="Java" width="50" height="50" />
@@ -45,7 +45,7 @@
     <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS" width="50" height="50" />
     <img src="./icons/HTML.svg" alt="HTML" width="50" height="50" />
     <img src="./icons/CSS.svg" alt="CSS" width="50" height="50" />
-    <img src="./icons/socketio-dark.svg" alt="SocketIo" width="50" height="50" />
+    <img src="./icons/Prisma.svg" alt="Prisma" width="50" height="50" />
 </div>
 
 <br/>
