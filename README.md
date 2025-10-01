@@ -12,9 +12,9 @@
  
 🌱 I'm currently learning **NextJs, TanStack Query, tRPC, Playwright**
 
-💬 Ask me about **NodeJs, ExpressJs, ReactJs, JavaScript, TypeScript... or anything [here](https://njahi-oussama.vercel.app)**
+💬 Ask me about **NodeJs, ExpressJs, ReactJs, JavaScript, TypeScript... or anything [here](https://njahi-oussama.netlify.app)**
 
-📄 Know about my experiences **[here](https://njahi-oussama.vercel.app/Resume.pdf)**
+📄 Know about my experiences **[here](https://njahi-oussama.netlify.app/Resume.pdf)**
 
 </div>
  
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/oussama-njahi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://njahi-oussama.vercel.app" target="_blank">
+  <a href="https://njahi-oussama.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
