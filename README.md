@@ -12,9 +12,9 @@
  
 🌱 I'm currently learning **NextJs, TanStack Query, tRPC, Playwright**
 
-💬 Ask me about **NodeJs, ExpressJs, ReactJs, JavaScript, TypeScript... or anything [here](https://njahi-oussama.netlify.app)**
+💬 Ask me about **NodeJs, ExpressJs, ReactJs, JavaScript, TypeScript... or anything [here](https://njahi-oussama.vercel.app)**
 
-📄 Know about my experiences **[here](https://njahi-oussama.netlify.app/Resume.pdf)**
+📄 Know about my experiences **[here](https://njahi-oussama.vercel.app/Resume.pdf)**
 
 </div>
  
