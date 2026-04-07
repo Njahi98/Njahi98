@@ -76,13 +76,13 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njahi98&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-six-weld-0fjt1fmvug.vercel.app/api/top-langs/?username=Njahi98&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Njahi98&show_icons=true&theme=react&border_radius=10&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-six-weld-0fjt1fmvug.vercel.app/api?username=Njahi98&show_icons=true&theme=react&border_radius=10&hide_border=false&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br/>
