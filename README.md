@@ -19,14 +19,17 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:njahioussama@outlook.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=mailboxdotorg&logoColor=white" />
+  <a href="mailto:njahioussama@outlook.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Email-4A5568?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/oussama-njahi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/oussama-njahi/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" />
   </a>
-  <a href="https://vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  <a href="https://njahi-oussama.vercel.app" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/SubAtomicFreezable/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </div>
 
