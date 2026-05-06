@@ -58,7 +58,7 @@
     <img src="./icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50" />
     <img src="./icons/MongoDB.svg" alt="MongoDB" width="50" height="50" />
     <img src="./icons/Git.svg" alt="Git" width="50" height="50" />
-    <img src="./icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />
+    <img src="./icons/Docker.svg" alt="Docker" width="50" height="50" />
     <img src="./icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50" />
     <img src="./icons/Idea-Dark.svg" alt="IntelliJ IDEA" width="50" height="50" />
     <img src="./icons/Figma-Dark.svg" alt="Figma" width="50" height="50" />
@@ -69,7 +69,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center"> GitHub Stats </h2>
 <br>
 
 <div align="center">
@@ -84,9 +84,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats-six-weld-0fjt1fmvug.vercel.app/api?username=Njahi98&show_icons=true&theme=react&border_radius=10&hide_border=false&count_private=true" alt="GitHub Stats" />
-</div>
+</div> -->
 
 <br/>
 <hr/>
